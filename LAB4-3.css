@@ -1,0 +1,37 @@
+table{
+    border-style: solid;
+    background-color: black;
+    border-width: 10px;
+    border-color: brown;
+    text-align:center;
+}
+tr,td{
+    width: 100px;
+    height: 100px;
+}
+#on1.selection{
+    background-color:white;
+}
+#on1.selected{
+    background-color:black;
+}
+#on2.selection{
+    background-color:black;
+}
+#on2.selected{
+    background-color:white;
+}
+#on3.selection{
+    background-color:black;
+}
+#on3.selected{
+    background-color:white;
+}
+#on4.selection{
+    background-color:white;
+}
+#on4.selected{
+    background-color:black;
+}
+
+
